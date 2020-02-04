@@ -5,6 +5,7 @@ class PetPortraits::CLI
 
   # Thought it would be nice to say bye too!
   def farewell 
-    puts "Goodbye!"
+    # this is friendlier, no?
+    puts "Goodbye my friends!"
   end
 end
