@@ -1,0 +1,3 @@
+class PetPortraits::CLI 
+  
+end

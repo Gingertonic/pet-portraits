@@ -1,0 +1,3 @@
+class PetPortraits::Pet 
+  
+end
